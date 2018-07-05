@@ -7,7 +7,7 @@ snoopy = Dog.new
 lassie = Dog.new
 
 class Person
-  
+  puts "I'm a person"
 end
 
 adele_goldberg = Person.new
